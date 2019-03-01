@@ -1,2 +1,3 @@
 # sendWechatTemplates
 python发送微信模板消息
+> 简单实现发送微信模板消息，需要使用第三方requests库，模板内容根据实际情况修改
